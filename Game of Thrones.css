@@ -15,7 +15,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -40vh;
+  margin-top: -50vh;
 
   overflow: auto;
 
@@ -354,7 +354,7 @@ width: 95%;
 
   width: 95%;
 
-  background: url("https://raw.githack.com/kudrasovae97-crypto/katerina/refs/heads/main/4554145d49ab3f41e2f842594bacdfb4.jpg");
+  background: url("https://raw.githack.com/kudrasovae97-crypto/katerina/refs/heads/main/game_of_thrones_logo_sticker_1.jpg");
 
   left: 0;
 
@@ -367,7 +367,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 720px !important;
+  height: 700px !important;
 
 }
 #nav-container {
