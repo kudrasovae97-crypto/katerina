@@ -335,7 +335,7 @@ width: 95%;
 }
 #menu-button.hover-color div {
 
-  background: #FF0000;
+  background: #FF4500;
 
 }
 
@@ -343,7 +343,7 @@ width: 95%;
 
 #menu-button.hover-color2 div {
 
-  background: #800000 !important;
+  background: #FF4500 !important;
 
 }
 #menu-overlay {
@@ -405,7 +405,7 @@ width: 95%;
 
   line-height: 28px;
 
-  color: #FF0000;
+  color: #FFD700;
 
   transition: .3s ease-in-out;
 
@@ -424,6 +424,8 @@ width: 95%;
   color: #FFFFFF !important;
 
 }
+.letter {
+    color: #FFD700;
 float: left;
 
  font-size: 84px;
@@ -437,4 +439,4 @@ float: left;
  padding-left: 3px;
 
  font-family: 'Montserrat', sans-serif; 
- 
+}
